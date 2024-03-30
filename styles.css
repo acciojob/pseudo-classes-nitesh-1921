@@ -2,18 +2,13 @@
 :root{
 	background-color:rgb(135, 206, 235);
 }
-article {
-  margin-bottom: 20px;
-}
-
 article p:first-child {
-  background-color: black;
   color: white;
-  padding: 10px;
+  background-color: black;
 }
 
 article p:nth-child(2) {
-  padding: 10px;
+  /* Standard text color */
 }
 
 article p:last-child {
