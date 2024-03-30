@@ -2,15 +2,22 @@
 :root{
 	background-color:rgb(135, 206, 235);
 }
-#five{
-	color:white;
-	background-color:black;
+article {
+  margin-bottom: 20px;
 }
-#six{
-	
+
+article p:first-child {
+  background-color: black;
+  color: white;
+  padding: 10px;
 }
-#seven{
-	color:red;
+
+article p:nth-child(2) {
+  padding: 10px;
+}
+
+article p:last-child {
+  color: red;
 }
 ul{
 	width:50%;
