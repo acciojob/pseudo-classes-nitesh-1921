@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+:root{
+	background-color:rgb(135, 206, 235);
+}
+#five{
+	color:white;
+	background-color:black;
+}
+#six{
+	
+}
+#seven{
+	color:red;
+}
+ul{
+	width:50%;
+	padding:10px;
+}
+.one{
+	background-color:white;
+	font-size:22px;
+}
+#two{
+	background-color:pink;
+}
+.three{
+	background-color:grey;
+}
+
+
+ 
